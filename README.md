@@ -5,7 +5,7 @@ It takes a grey-scale image as input,coverts it into a two-toned binary matrix a
 
  How it works:- This code has two major fuctions-
                 a. THRESHOLDING
-                B. SMOOTHING
+                b. SMOOTHING
    
     
     THRESHOLDING :-
