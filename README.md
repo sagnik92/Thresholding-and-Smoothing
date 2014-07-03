@@ -12,10 +12,9 @@ It takes a grey-scale image as input,coverts it into a two-toned binary matrix a
  
  1) It takes a grayscale image as input, which is a matrix that can contain any values between 0 and 255.
  
- 2) Scanning the entire matrix only once, it counts the frequency of occurence each value in the matrix and stores them      separately in 
-    an array.
+ 2) Scanning the entire matrix only once, it counts the frequency of occurence of each value in the matrix and stores them      separately in an array.
   
- 3) It finds out two values whose frequency are the highest- one in the rance 0 to 127 and another in the range 128 to 255.
+ 3) It finds out two values whose frequency are the highest- one in the rance 0 to 127 and another in the range 128 to 255
     
  4) It then calculates the mean of the two values.
  
